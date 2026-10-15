@@ -1,0 +1,4 @@
+torch>=2.0
+numpy>=1.23
+pretty_midi>=0.2.10
+pillow>=9.0
